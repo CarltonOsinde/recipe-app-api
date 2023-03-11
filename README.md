@@ -1,2 +1,3 @@
-# recipe-app-api
-Recipe API project
+# Recipe API project
+Full documentation and demo coming soon!
+
